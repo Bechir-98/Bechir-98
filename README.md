@@ -1,14 +1,14 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20There!%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20There!%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Software+Engineering+%26+AI+%F0%9F%A4%96;AI+Security+%26+LLM+Engineering+%F0%9F%94%90;Backend+%26+Full-Stack+Development+%F0%9F%92%BB;Building+Intelligent+Systems+%E2%9A%A1" alt="Typing SVG" />
-  </a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Software+Engineering+%26+AI+%F0%9F%A4%96;AI+Security+%26+LLM+Engineering+%F0%9F%94%90;Backend+%26+Full-Stack+Development+%F0%9F%92%BB;Building+Intelligent+Systems+%E2%9A%A1" alt="Typing SVG" />
+</a>
 
-  <br/>
+<br/>
 
-  <img src="https://komarev.com/ghpvc/?username=Bechir-98&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Bechir-98&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
 </div>
 
@@ -45,6 +45,7 @@ focus:
 
 languages:
   - Python
+  - C++
   - TypeScript
   - JavaScript
   - C
@@ -77,7 +78,7 @@ Key areas include:
 * 📊 Monitoring, metrics and audit capabilities
 * 🔌 OpenAI-compatible REST APIs
 
-**Technologies:** Python · FastAPI · React · TypeScript · SQLAlchemy · Docker · LLMs
+**Technologies:** Python · FastAPI · React · TypeScript · SQLAlchemy · Docker · GLiNER · LLMs
 
 ---
 
@@ -93,6 +94,7 @@ I'm interested in applying AI to practical engineering problems, particularly:
 * Embeddings and reranking
 * LLM security
 * PII detection and anonymization
+* GLiNER-based entity detection
 * Prompt injection detection
 * Reinforcement Learning
 * Q-Learning
@@ -107,6 +109,7 @@ I'm interested in applying AI to practical engineering problems, particularly:
 <p align="center">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
@@ -120,10 +123,11 @@ I'm interested in applying AI to practical engineering problems, particularly:
 
 <img src="https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Reinforcement_Learning-8E44AD?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/LLM-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/RAG-5C2D91?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangGraph-1C1C1C?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/GLiNER-FF6F00?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Reinforcement_Learning-8E44AD?style=for-the-badge&logoColor=white"/>
 
 </p>
 
@@ -132,6 +136,7 @@ I'm interested in applying AI to practical engineering problems, particularly:
 <p align="center">
 
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -143,6 +148,7 @@ I'm interested in applying AI to practical engineering problems, particularly:
 <p align="center">
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
@@ -161,14 +167,6 @@ I'm interested in applying AI to practical engineering problems, particularly:
 
 </p>
 
-### Simulation & Specialized Tools
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/SUMO-Urban_Mobility-444444?style=for-the-badge&logoColor=white"/>
-
-</p>
-
 ---
 
 ## 🔥 Featured Projects
@@ -181,7 +179,7 @@ The system combines security scanning with reversible PII anonymization and secu
 
 **Focus:** LLM Security · PII Protection · Anonymization · Prompt Injection · Secure APIs · Multi-provider LLMs
 
-**Technologies:** Python · FastAPI · React · TypeScript · SQLAlchemy · Docker
+**Technologies:** Python · FastAPI · React · TypeScript · SQLAlchemy · Docker · GLiNER · LLMs
 
 ---
 
@@ -193,7 +191,7 @@ The platform provides dedicated interfaces and workflows for different users inv
 
 **Focus:** Full-Stack Development · Recommendation Systems · User Management · Healthcare Applications
 
-**Technologies:** React · JavaScript · Bootstrap · REST APIs
+**Technologies:** React · JavaScript · Bootstrap · FastAPI · REST APIs
 
 ---
 
@@ -237,13 +235,13 @@ The project focuses on building a complete marketplace ecosystem with user manag
 
 <div align="center">
 
-| 🤖 Artificial Intelligence |    🔐 Security   | ⚙️ Software Engineering |
-| :------------------------: | :--------------: | :---------------------: |
-|            LLMs            |    AI Security   |     Backend Systems     |
-|             RAG            |  PII Protection  |        REST APIs        |
-|   Reinforcement Learning   | Prompt Injection |  Software Architecture  |
-|       Agentic Systems      |    Secure APIs   |  Full-Stack Development |
-|      DQN / Q-Learning      |   LLM Security   |   Distributed Systems   |
+| 🤖 Artificial Intelligence | 🔐 Security      | ⚙️ Software Engineering |
+| :------------------------- | :--------------- | :---------------------- |
+| LLMs                       | AI Security      | Backend Systems         |
+| RAG                        | PII Protection   | REST APIs               |
+| Reinforcement Learning     | Prompt Injection | Software Architecture   |
+| Agentic Systems            | Secure APIs      | Full-Stack Development  |
+| DQN / Q-Learning           | LLM Security     | Distributed Systems     |
 
 </div>
 
@@ -253,9 +251,9 @@ The project focuses on building a complete marketplace ecosystem with user manag
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Bechir-98&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Bechir-98&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bechir-98&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bechir-98&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -263,7 +261,7 @@ The project focuses on building a complete marketplace ecosystem with user manag
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bechir-98&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bechir-98&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -286,25 +284,22 @@ The project focuses on building a complete marketplace ecosystem with user manag
 ## 🌱 Currently Exploring
 
 ```text
-Artificial Intelligence
-        │
-        ├── Large Language Models
-        ├── RAG & Agentic Systems
-        ├── Reinforcement Learning
-        └── AI Security
-                 │
-                 ▼
-          Intelligent Systems
-                 │
-        ┌────────┴────────┐
-        ▼                 ▼
- Software Engineering   Cybersecurity
-        │                 │
-        ├── Backend       ├── PII Protection
-        ├── APIs          ├── Prompt Injection
-        ├── Architecture  └── Secure AI
-        └── Full-Stack
+🤖 AI & LLMs
+   ├── LLM Engineering
+   ├── RAG & Agentic Systems
+   └── Reinforcement Learning
+
+🔐 AI Security
+   ├── PII Protection
+   ├── Prompt Injection
+   └── Secure LLM Gateways
+
+⚙️ Software Engineering
+   ├── Backend & APIs
+   ├── Full-Stack Development
+   └── Software Architecture
 ```
+
 
 ---
 
